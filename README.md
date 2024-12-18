@@ -63,7 +63,7 @@ The website consists of four main pages:
   - `resume.html` (resume page)
   - `projects.html` (projects page)
   - `contact.html` (contact page)
-  - Wireframe and validation screenshots (to be included in the final submission)
+  - Wireframe and validation screenshots
 
 ## Validation
 - All HTML and CSS pages are validated to ensure they meet coding standards and are error-free.
