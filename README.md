@@ -1,6 +1,5 @@
 ﻿# ResumeWebProject
 
-# Personal Portfolio Website
 
 ## Overview
 This project is a personal portfolio website created for the CST8285: Web Programming course. The website is built entirely from scratch using HTML and CSS. It serves as a comprehensive portfolio, showcasing personal and professional information, work experience, projects, and contact details. The website is responsive and designed to make a strong impression on potential employers.
