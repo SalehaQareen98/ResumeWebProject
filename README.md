@@ -96,6 +96,12 @@ The project will be graded based on the following:
 - [W3Schools HTML & CSS Reference](https://www.w3schools.com)
 
 ---
+## Contact
+
+For questions or feedback, feel free to reach out:
+
+- **Email**: salehaqareen@gmail.com
+- **GitHub**: [SalehaQareen98]([https://github.com/your-username](https://github.com/SalehaQareen98))
 
 **Note:** This project is an individual assignment. 
 
